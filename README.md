@@ -1,6 +1,6 @@
 1. **Crear SCRIPT**  
 Primero creamos un script en python, que enviará el mensaje a discord.  
-![0](0.PNG) 
+![0](0.png) 
 2. **Instalamos repositorio**  
 Para ello, en la consola:  
 pip install discord-webhook  
